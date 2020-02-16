@@ -56,4 +56,4 @@ The page is split into 4 sections.
 - It looks like we have 2 main sections, a containing element with the text flowing from top to bottom, and the image of the Spotify player on the right.
 - Position the Spotify logo absolutely according to the _green_ `div`.
 
-Happy coding! 💙
+Happy coding! 💙# Lab-CCS-Spotify-Clone
